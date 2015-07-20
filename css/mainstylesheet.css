@@ -1,5 +1,9 @@
 body {
 	background-color: #f9e933;
+	font-family: 'Ubuntu' , sans-serif;
+	font-size: 100%;
+	margin: 0px;
+	padding: 0px;
 }
 
 header, main, footer {
@@ -14,6 +18,7 @@ header .container , main .container , footer .container {
 header {
 	background: white;
 	overflow: auto;
+	margin: 0px;
 }
 
 header .container h1 {
@@ -24,16 +29,29 @@ header .container h1 {
 header .container nav {
 	float: right;
 	width: 285px;
+	margin-top: 21.440px;
+	margin-bottom: 21.440px;
 }
 
 main {
 	background: white;
 	overflow: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 main .info {
 	float: left;
 	width: 570px;
+}
+
+main .info ul {
+	list-style-type: none;
+	padding: 0px;
+}
+
+main .info ul li {
+	margin-top: 10px;
 }
 
 main .image {
@@ -50,7 +68,18 @@ footer .sitemap {
 	width: 285px;
 }
 
+footer .sitemap ul {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	list-style-type: none;
+}
+
 footer .contact {
 	float: left;
 	width: 570px;
+}
+
+footer .contact p {
+	margin: 0px;
 }
