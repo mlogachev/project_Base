@@ -122,3 +122,19 @@ main .content ul li {
 
 }
 
+main #input {
+	width: 158px;
+	margin: 10px;
+	margin-left: 0px;
+	display: inline-block;
+}
+
+main .btn {
+	text-align: center;
+	width: 50px;
+	background-color: blue;
+	color: white;
+	display: inline-block;
+	margin-top: 15px;
+}
+
