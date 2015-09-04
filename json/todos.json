@@ -1,0 +1,26 @@
+[
+	{
+		"tag" : "shopping" ,
+		"description" : [ "Shopping" ]
+	} ,
+	{
+		"tag" : "routine" ,
+		"description" : [ "Shopping" , "Take Grace for a walk" ]
+	} ,
+	{
+		"tag" : "writing" ,
+		"description" : [ "Update some tasks" , "Finish writing book" ]
+	} ,
+	{
+		"tag" : "work" ,
+		"description" : [ "Update some tasks" , "Prepare for lecture on Monday" , "Answer letters from LinkedIn" , "Finish writing book" ]
+	} ,
+	{
+		"tag" : "teaching" ,
+		"description" : [ "Prepare for lecture on Monday" ]
+	} ,
+	{
+		"tag" : "dog" ,
+		"description" : [ "Take Grace for a walk" ]
+	}
+]
